@@ -1,4 +1,4 @@
-# Welcome to my todo-list-reat
+# Welcome to my todo-list-react
 > just backend part in this repo
 
 
