@@ -6,4 +6,4 @@
 ### default path on request: `/api/todos/`
 `POST`
 `header: {Content-Type: 'application/x-www-form-urlencoded'}`
-`body: {edscription: 'String'}`
+`body: {description: 'String'}`
