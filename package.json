@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/loader.js",
   "scripts": {
-    "start" : "node src/loader.js",
+    "start": "node src/loader.js",
     "dev": "nodemon",
     "production": "pm2 start src/loader.js --name todo-app"
   },
@@ -12,14 +12,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.18.2",
     "express": "^4.14.0",
     "mongoose": "^4.7.0",
     "node-restful": "^0.2.5",
-    "pm2": "^2.1.5",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "pm2": "^2.1.5"
   },
-  "engines":{
+  "engines": {
     "node": "8.9.4"
   }
 }
